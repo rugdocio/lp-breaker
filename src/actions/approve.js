@@ -31,7 +31,7 @@ const approve = (web3, chainId, tokenAddress) => {
             console.error(e)
             let errormsg = e.data
             notification.open({
-                message: 'Transaction failed',
+                message: 'Transaction failed: Did you provide the LP token?',
                 description: errormsg
 
             })
