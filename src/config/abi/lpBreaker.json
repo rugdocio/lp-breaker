@@ -1,0 +1,15 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "contract IUniswapV2Pair",
+				"name": "pair",
+				"type": "address"
+			}
+		],
+		"name": "breakLP",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]
