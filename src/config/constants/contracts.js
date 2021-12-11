@@ -2,6 +2,7 @@
 // Fetcher: Helper contract that is essential for a chain to work. It fetches all the pool data and returns it in a single call
 const contracts = {
   lpBreaker: {
+    25: "0xa4c0d8eEed7928b61B1eC3Be42E5Caf0B8E3aC5C", // CRO
     321: "0x43bEa134Ce66fC4cf90d3afA4c2eBCD0aC2a1D43", // KCC
     137: "0x9ad44b90415E2e1f4A37c7f7e2554ADeB2bad001", // Polygon
     56: "0xC4833E1392966Df2E00d9e3Db8949749AEe6fB26", // BSC

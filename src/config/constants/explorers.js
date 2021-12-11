@@ -1,6 +1,7 @@
 // Utility methods to get explorer links
 
 export const explorers = {
+      25: "https://cronos.crypto.org/explorer/",
       137: "https://polygonscan.com",
       56: "https://bscscan.com",
       321: "https://explorer.kcc.io/en",
