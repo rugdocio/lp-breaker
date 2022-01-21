@@ -12,6 +12,7 @@ export const explorers = {
       42220: "https://explorer.celo.org",
       1666600000: "https://explorer.harmony.one",
       1284: "https://blockscout.moonbeam.network/",
+      25: "https://cronoscan.com",
   };
 export const getAddressLink = (chainId, address) => {
     return explorers[chainId] + "/address/" + address
