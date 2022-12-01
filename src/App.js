@@ -64,7 +64,7 @@ function App() {
         <h3 style={{ color: "#6d84a2" }}>The LP breaker is experimental and provided as-is</h3>
         <h3 style={{ color: "#6d84a2" }}>Use it as a last resort</h3>
         <p/>
-        <p  style={{ color: "#6d84a2" }}>Make sure that you're connected to the correct network (Supported: BSC, Polygon, Avalanche, Fantom, DogeChain, Cronos, IOTEX, Moonriver, Celo, Harmony ONE, KCC and Moonbeam)</p>
+        <p  style={{ color: "#6d84a2" }}>Make sure that you're connected to the correct network (Supported: BSC, Polygon, Avalanche, Fantom, ETHW, DogeChain, Cronos, IOTEX, Moonriver, Celo, Harmony ONE, KCC and Moonbeam)</p>
       </div>
     </Web3Context.Provider>
   );
